@@ -1,4 +1,4 @@
 ## Package and Distribute
-npm install electron-packager -g
+1. `npm install electron-packager -g`
 
-electron-packager . my-electron-app --all --asar
+2. `electron-packager . my-electron-app --all --asar`
